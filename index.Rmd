@@ -1,0 +1,26 @@
+---
+title: "My Website"
+---
+
+¡Bienvenidas/os!
+
+# Importante
+
+<p align="justify">
+
+Este sitio es de prueba <span style="color:red">sitio es de prueba</span> para el curso de ecología de Aves, UNA, I Ciclo-2019.
+</p>
+
+
+<p align="center">
+"La vida es lo pasa mientras hacemos otros planes".
+-John Lennon
+</p>
+
+
+Esta es mi página principal, ir a la siguiente 
+
+[Página](https://instagram.com/joss93_photography?utm_source=ig_profile_share&igshid=97pfvx2uxe6l)
+
+![](fotos/trogon.jpg){width=100px}
+
